@@ -9,12 +9,21 @@ max-width: 800px;
 margin: 0 auto;
 padding: 20px
 }
-main{
+main{;
 display: flex;
 }
 article{
        background-color: rgb(226, 43, 195);
      color: darkmagenta;
     text-align: justify;
-
-
+}
+main{
+   display: flex;
+   max: width 800px;
+   margin:  20px;
+   padding: 15px;
+}
+article{
+      background-color: blueviolet;
+      color: crimson;
+      text-align:justify;
